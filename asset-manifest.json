@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdominal-pain/static/css/main.d7b38628.css",
-    "main.js": "/abdominal-pain/static/js/main.801eb1f3.js",
+    "main.css": "/abdominal-pain/static/css/main.f436d894.css",
+    "main.js": "/abdominal-pain/static/js/main.29da581a.js",
     "static/js/488.44e8f4e7.chunk.js": "/abdominal-pain/static/js/488.44e8f4e7.chunk.js",
     "index.html": "/abdominal-pain/index.html",
-    "main.d7b38628.css.map": "/abdominal-pain/static/css/main.d7b38628.css.map",
-    "main.801eb1f3.js.map": "/abdominal-pain/static/js/main.801eb1f3.js.map",
+    "main.f436d894.css.map": "/abdominal-pain/static/css/main.f436d894.css.map",
+    "main.29da581a.js.map": "/abdominal-pain/static/js/main.29da581a.js.map",
     "488.44e8f4e7.chunk.js.map": "/abdominal-pain/static/js/488.44e8f4e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7b38628.css",
-    "static/js/main.801eb1f3.js"
+    "static/css/main.f436d894.css",
+    "static/js/main.29da581a.js"
   ]
 }
